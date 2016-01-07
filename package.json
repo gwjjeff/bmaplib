@@ -8,5 +8,9 @@
     "test": "node demo.js"
   },
   "author": "Jeff Guo <gwjjeff@gmail.com> (http://github.com/gwjjeff)",
-  "license": "CC0"
+  "license": "CC0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gwjjeff/bmaplib"
+  },
 }

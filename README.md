@@ -10,6 +10,8 @@ Usage
 
     $ npm install bmaplib
 
+使用
+
 ```javascript
 var BMap = require('bmaplib').BMap;
 var BMapLib = require('bmaplib').BMapLib;

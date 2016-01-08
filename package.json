@@ -1,6 +1,6 @@
 {
   "name": "bmaplib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "百度地图API及开源库中抽取的几何对象及其运算",
   "keywords": ["map", "baidu", "api", "point", "bounds", "polyline", "polygon", "distance", "area"],
   "main": "index.js",
